@@ -1,2 +1,3 @@
-# demo5
-this demo five
+x = 7;
+y = 8;
+print(x + y);
